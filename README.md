@@ -7,7 +7,7 @@ I use this project to learn C++ and I may think of making it a mobile app in the
 
 ## What do I need to know in order to contribute ?
 
-You don;t need to have any knowledge of warhammer 40k. The concept is quite simple :
+You don't need to have any knowledge of warhammer 40k. The concept is quite simple :
 
 You pick a race from a list.
 Each race has formations.
